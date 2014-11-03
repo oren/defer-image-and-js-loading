@@ -1,4 +1,4 @@
-# micro template usage
+# Defer Image Loading
 
 This project demonstrates how to defer loading images for speeding up a website.  
 It's based on this blog post: http://ponyfoo.com/articles/critical-path-performance-optimization   
