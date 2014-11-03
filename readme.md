@@ -10,7 +10,6 @@ It's based on this blog post: http://ponyfoo.com/articles/critical-path-performa
 * [Install](#install)
 * [Complie browserify](#watch)
 * [Run](#run)
-* [Example](#example)
 
 ## Install
 
@@ -23,6 +22,4 @@ It's based on this blog post: http://ponyfoo.com/articles/critical-path-performa
 ## Run
 
     open index.html in the browser
-
-## Exmples
 
