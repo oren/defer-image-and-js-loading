@@ -1,6 +1,6 @@
-# Defer Image Loading
+# Defer Image and JS Loading
 
-This project demonstrates how to defer loading images for speeding up a website.  
+This project demonstrates how to defer loading images and Javascript for speeding up a website.  
 It's based on this blog post: http://ponyfoo.com/articles/critical-path-performance-optimization   
 
 ![image-showing-defered-images](critical.png)
